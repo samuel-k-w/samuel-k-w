@@ -26,6 +26,7 @@ Welcome to my GitHub profile! I'm passionate about building scalable web applica
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -34,6 +35,9 @@ Welcome to my GitHub profile! I'm passionate about building scalable web applica
 ![Fastify](https://img.shields.io/badge/-Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
@@ -59,20 +63,20 @@ Welcome to my GitHub profile! I'm passionate about building scalable web applica
 ### 🌟 **Featured Projects**
 
 #### **Web Development**
-- **[Project Name]** - A brief description of the project. [Live Demo](#) | [GitHub Repo](#)
-- **[Project Name]** - A brief description of the project. [Live Demo](#) | [GitHub Repo](#)
+- **[MERN LMS]** - A brief description of the project. [Live Demo](#) | [GitHub Repo](#)
+- **[THEGE Ecommerce]** - A brief description of the project. [Live Demo](#) | [GitHub Repo](#)
 
 #### **Web3 Development**
-- **[Project Name]** - A brief description of the project. [Live Demo](#) | [GitHub Repo](#)
-- **[Project Name]** - A brief description of the project. [Live Demo](#) | [GitHub Repo](#)
+- **[Smart Lottery]** - A brief description of the project. [Live Demo](#) | [GitHub Repo](#)
+- **[Crypto Exchage]** - A brief description of the project. [Live Demo](#) | [GitHub Repo](#)
 
 #### **Recommendation Engines**
-- **[Project Name]** - A brief description of the project. [Live Demo](#) | [GitHub Repo](#)
-- **[Project Name]** - A brief description of the project. [Live Demo](#) | [GitHub Repo](#)
+- **[Collaoration filtering Music System]** - A brief description of the project. [Live Demo](#) | [GitHub Repo](#)
+- **[Smart Search and Filtering Agent]** - A brief description of the project. [Live Demo](#) | [GitHub Repo](#)
 
 #### **Mobile App Development**
-- **[Project Name]** - A brief description of the project. [Live Demo](#) | [GitHub Repo](#)
-- **[Project Name]** - A brief description of the project. [Live Demo](#) | [GitHub Repo](#)
+- **[Spotify Clone]** - A brief description of the project. [Live Demo](#) | [GitHub Repo](#)
+- **[LMS]** - A brief description of the project. [Live Demo](#) | [GitHub Repo](#)
 
 ---
 
@@ -86,9 +90,9 @@ Welcome to my GitHub profile! I'm passionate about building scalable web applica
 
 ### 📫 **Let's Connect**
 
-- **LinkedIn**: [Your LinkedIn Profile](#)
-- **Twitter**: [Your Twitter Handle](#)
-- **Portfolio**: samuelkkifle.dev(#)
+- **LinkedIn**: https://www.linkedin.com/in/samuelkiflew(#)
+- **Twitter**: https://x.com/samuel-k(#)
+- **Portfolio**: https://samuelkkifle.dev(#)
 - **Email**: samuel.kifle.w@gmail.com(#)
 
 ---
